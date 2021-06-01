@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ library
+comment1.target=Student(java.lang.String,\ Library)
+comment2.params=
+comment2.target=void\ study()
+comment3.params=
+comment3.target=boolean\ finishedStudies()
+comment4.params=
+comment4.target=void\ describe()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=College
+comment1.params=maxStudents\ numTextBook
+comment1.target=College(int,\ int)
+comment2.params=
+comment2.target=void\ describe()
+comment3.params=nSteps
+comment3.target=void\ runCollege(int)
+comment4.params=
+comment4.target=void\ nextStep()
+numComments=5
